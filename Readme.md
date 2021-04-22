@@ -1,0 +1,5 @@
+- Python library is a collection of functions and methods that allows you to perform many actions without writing your code
+- Numpy- Numerical Computation
+- Matplotlib - Visualization
+- Pandas - Data manipulation
+- Scikitlearn- Machine learning Algorithms
